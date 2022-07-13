@@ -10,4 +10,4 @@ StarCraft related utilities that may be found in the monorepo.
 
 
 
-Get in touch! Find me [on Twitter](https://twitter.com/imbateamgg), [Youtube](http://youtube.imbateam.gg), or [the Titan Reactor Discord](http://discord.imbateam.gg).
+Get in touch! Find me [on Twitter](https://twitter.com/imbateam), [Youtube](http://youtube.imbateam.gg), or [the Titan Reactor Discord](http://discord.imbateam.gg).
