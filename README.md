@@ -1,4 +1,4 @@
-Hi! 👋 I'm presently focused on my custom StarCraft WebGL renderer called [Titan Reactor](https://github.com/alexpineda/titan-reactor). I showcase some of that as well on the ImbaTeam [Youtube channel!](https://www.youtube.com/channel/UCj7TSQvBRYebRDIL0FW1MBQ)
+Hi! 👋 My main coding hobby is a StarCraft WebGL viewer, see it here www.blacksheepwall.tv
 
 In my day job I focus on product design and development for a SaaS CRM.
 
