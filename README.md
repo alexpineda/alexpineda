@@ -1,5 +1,5 @@
 Hi! 👋 My main coding hobby is a StarCraft WebGL viewer, see it here www.blacksheepwall.tv
 
-In my day job I focus on product design and development for a SaaS CRM.
+I like building products and good UX.
 
-Get in touch! Find me [on Twitter](https://twitter.com/alej_r_pineda)!
+Get in touch! Find me [X]([https://twitter.com/alej_r_pineda](https://x.com/weloveoov))!
